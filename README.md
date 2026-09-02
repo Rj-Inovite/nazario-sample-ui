@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ECFDF5,35:34D399,70:047857,100:022C22&text=NAZARIO&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Luxury%20Eyewear%20%26%20Sunglasses%20Collection&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:021B15,30:064E3B,70:047857,100:34D399&text=NAZARIO&fontSize=58&fontColor=ECFDF5&animation=fadeIn&fontAlignY=38&desc=Luxury%20Eyewear%20%26%20Sunglasses&descAlignY=58"/>
 
-# 👓 Nazario
+# 👓 NAZARIO
 
 ### *See the world through timeless elegance.*
 
-A premium eyewear & sunglasses shopping experience crafted with modern frontend technologies.
+A luxury eyewear experience crafted with modern frontend technologies.
 
 <a href="YOUR_LIVE_LINK">
-  <img src="https://img.shields.io/badge/🌐_Live_Website-Visit_Now-047857?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Live_Website-Emerald-047857?style=for-the-badge"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Luxury+Eyewear+Website;Responsive+Frontend+Experience;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Modern+UI%2FUX+Design"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=780&lines=Luxury+Eyewear+Website;Modern+Responsive+Frontend;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Elegant+Shopping+Experience"/>
 
 <br/>
 
@@ -30,55 +30,85 @@ A premium eyewear & sunglasses shopping experience crafted with modern frontend 
 
 # 🌿 About Nazario
 
-> ### ✨ Modern • Elegant • Visionary
+> ## ✨ *Luxury • Vision • Precision*
 
-**Nazario** is a luxury eyewear and sunglasses website designed to deliver a premium digital shopping experience. From stylish optical frames to contemporary sunglasses, the platform combines minimalist design with elegant interactions and responsive performance.
+**Nazario** is a premium eyewear & sunglasses website designed to redefine online optical shopping with a minimalist luxury experience.
 
-### 💎 Highlights
+Inspired by global eyewear brands, the platform combines elegant product presentation, smooth interactions, responsive layouts, and modern frontend architecture to create an immersive digital boutique.
 
-- 👓 Premium Eyewear Collection
-- 🕶️ Luxury Sunglasses Gallery
-- 📱 Fully Responsive Design
+### 💎 Signature Experience
+
+- 👓 Premium Eyewear Collections
+- 🕶 Luxury Sunglasses Showcase
+- 🌿 Elegant Emerald Design Language
+- 📱 Fully Responsive Interface
 - ⚡ Fast & Lightweight Performance
-- 🎨 Modern UI/UX Experience
-- ✨ Smooth Interactive Animations
-- 💚 Tailwind + Bootstrap Components
+- ✨ Smooth Animations & Transitions
+- 🛍 Boutique Shopping Experience
 
 ---
 
-# 🛍 Featured Collection
+# ✨ Editorial Collection
 
-<p align="center">
+<table>
+<tr>
+<td width="65%">
+<img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1200&q=80"/>
+</td>
+<td width="35%">
+<img src="https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=600&q=80"/>
+<br/><br/>
+<img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80"/>
+</td>
+</tr>
+</table>
 
-![Eyewear Hero](https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1400&q=80)
+<div align="center">
 
-</p>
+### *Where style meets clarity.*
 
----
-
-# 🌟 Premium Gallery
-
-| Collection | Collection |
-|------------|------------|
-| ![Glass1](https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80) | ![Glass2](https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80) |
-| **Classic Optical** | **Luxury Sunglasses** |
-| ![Glass3](https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80) | ![Glass4](https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80) |
-| **Modern Frames** | **Premium Fashion** |
-
----
-
-# ✨ Why Nazario?
-
-| 🌿 Experience | 💎 Design |
-|--------------|----------|
-| Responsive Layout | Luxury Aesthetic |
-| Smooth Navigation | Elegant Typography |
-| Interactive Components | Minimal UI |
-| Fast Performance | Premium Visual Identity |
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 🌱 Featured Eyewear Series
+
+<table>
+<tr>
+<td align="center">
+<img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=500&q=80"/>
+
+**Urban Vision**
+
+Modern optical frames
+</td>
+<td align="center">
+<img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=500&q=80"/>
+
+**Elite Shades**
+
+Luxury sunglasses
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 Design Identity
+
+| 🌿 Element | 🎨 Color |
+|------------|----------|
+| Forest | `#021B15` |
+| Emerald | `#047857` |
+| Mint | `#34D399` |
+| Soft White | `#ECFDF5` |
+| Charcoal | `#111827` |
+
+> A calm emerald palette inspired by premium eyewear boutiques and luxury fashion editorials.
+
+---
+
+# ⚡ Built With
 
 <div align="center">
 
@@ -86,66 +116,54 @@ A premium eyewear & sunglasses shopping experience crafted with modern frontend 
 
 </div>
 
-### Technologies Used
+### Technologies
 
 - 🌐 HTML5
 - 🎨 CSS3
-- ⚡ JavaScript (ES6)
 - 💚 Tailwind CSS
 - 🟣 Bootstrap 5
+- ⚡ JavaScript ES6
 - 🔧 Git & GitHub
 - 💻 VS Code
 
 ---
 
-# 🎨 Design System
-
-| Color | Hex |
-|--------|-----|
-| 🌲 Emerald | `#047857` |
-| 💚 Green | `#10B981` |
-| 🌿 Mint | `#D1FAE5` |
-| ⚫ Charcoal | `#111827` |
-| 🤍 White | `#FFFFFF` |
-
----
-
-# 🌊 User Journey
+# 🛍 User Experience Flow
 
 ```text
-Landing Page
-      │
-      ▼
-Browse Eyewear Collection
-      │
-      ▼
-Explore Product Gallery
-      │
-      ▼
-Premium Shopping Experience
-      │
-      ▼
-Responsive Checkout Journey
+Discover Collection
+        │
+        ▼
+Explore Eyewear Gallery
+        │
+        ▼
+Interactive Product Experience
+        │
+        ▼
+Responsive Shopping Journey
+        │
+        ▼
+Luxury Digital Boutique
 ```
 
 ---
 
-# 📁 Project Structure
+# 📂 Project Structure
 
 ```text
 Nazario/
 │
+├── index.html
 ├── css/
 ├── js/
 ├── assets/
 ├── images/
-├── index.html
 └── README.md
 ```
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Run Locally
 
 ### Clone Repository
 
@@ -163,25 +181,25 @@ Open index.html in your browser
 
 ---
 
-# 🌟 Future Enhancements
+# 🌟 Why You'll Love Nazario
 
-- ❤️ Wishlist Feature
-- 🛒 Shopping Cart
-- 💳 Payment Integration
-- 🌙 Dark Mode
-- 🤖 AI Face Glasses Try-On
-- 📦 Product Filtering
+| 🌿 Design | ⚡ Experience |
+|-----------|--------------|
+| Premium Emerald Theme | Responsive Layout |
+| Editorial Product Gallery | Smooth Navigation |
+| Minimal Luxury UI | Fast Performance |
+| Modern Frontend Architecture | Elegant Typography |
 
 ---
 
 <div align="center">
 
-## 👩‍💻 Designed & Developed by Ruchi Jasmatiya
+# 👩‍💻 Designed & Developed by Ruchi Jasmatiya
 
-**Frontend Developer • UI/UX Designer • Full Stack Developer**
+### Frontend Developer • UI/UX Designer • Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ECFDF5,50:10B981,100:022C22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:021B15,50:047857,100:34D399"/>
 
-### ⭐ Crafted with Vision & Elegance
+## ⭐ Crafted with Vision, Elegance & Clean Code
 
 </div>
