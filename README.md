@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ECFDF5,30:BBF7D0,70:4ADE80,100:166534&text=NAZARIO&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Luxury%20Eyewear%20%26%20Sunglasses%20Website&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ECFDF5,30:BBF7D0,70:34D399,100:166534&text=NAZARIO&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Luxury%20Eyewear%20%26%20Sunglasses%20Website&descAlignY=58"/>
 
-# 👓 Nazario
+# 👓 NAZARIO
 
 ### *See the world through timeless elegance.*
 
-A premium eyewear & sunglasses shopping experience crafted with modern frontend technologies and luxury UI/UX.
+A premium eyewear & sunglasses shopping experience crafted with **HTML, CSS, Tailwind CSS, Bootstrap & JavaScript**.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=760&lines=Luxury+Eyewear+Website;Modern+Responsive+Frontend;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Elegant+Shopping+Experience"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=760&lines=Luxury+Eyewear+Website;Responsive+Frontend+Experience;Tailwind+CSS+%7C+Bootstrap;Elegant+UI%2FUX;Modern+Shopping+Interface"/>
 
 <br/>
 
@@ -28,29 +28,27 @@ A premium eyewear & sunglasses shopping experience crafted with modern frontend 
 
 > ### 💚 *Luxury • Vision • Precision*
 
-**Nazario** is a beautifully designed luxury eyewear and sunglasses website that brings premium optical fashion into a modern digital experience.
-
-Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript**, the platform focuses on elegant product presentation, responsive shopping experience, smooth interactions, and contemporary UI/UX inspired by global eyewear brands.
+**Nazario** is a modern luxury eyewear and sunglasses website designed to deliver an immersive digital shopping experience. Inspired by premium optical brands, the platform combines elegant product presentation, responsive layouts, and smooth interactions with a minimalist emerald aesthetic.
 
 ### ✨ Highlights
 
 - 👓 Premium Eyewear Collection
-- 🕶 Luxury Sunglasses Showcase
-- 🌿 Elegant Emerald Design Language
-- 📱 Fully Responsive Experience
+- 🕶 Luxury Sunglasses Gallery
+- 🌿 Elegant Emerald Green Theme
+- 📱 Fully Responsive Design
 - ⚡ Fast & Lightweight Performance
-- ✨ Smooth Animations & Transitions
+- ✨ Smooth UI Animations
 - 💚 Tailwind + Bootstrap Components
 
 ---
 
-# 🖼 Website Preview
+# 🖼 Hero Collection
 
 <p align="center">
-<img width="100%" src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1400&q=80"/>
+  <img width="100%" src="https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=1600&q=80" alt="Luxury Eyewear Hero"/>
 </p>
 
-<p align="center"><i>Luxury eyewear landing page with modern emerald aesthetics</i></p>
+<p align="center"><i>Minimal luxury • Premium optical fashion • Modern lifestyle</i></p>
 
 ---
 
@@ -59,42 +57,42 @@ Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript
 <table>
 <tr>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80"/>
-</td>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"/>
-</td>
-</tr>
+<img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=700&q=80"/>
 
-<tr>
-<td align="center"><b>Urban Optical</b></td>
-<td align="center"><b>Elite Sunglasses</b></td>
+**Classic Optical**
+</td>
+
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=700&q=80"/>
+
+**Elite Sunglasses**
+</td>
 </tr>
 </table>
 
 ---
 
-# 🌼 Premium Gallery
+# 🌼 Editorial Gallery
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80"/>
+<td width="33%">
+<img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=500&q=80"/>
 </td>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"/>
-</td>
-</tr>
 
-<tr>
-<td align="center"><b>Classic Frames</b></td>
-<td align="center"><b>Designer Collection</b></td>
+<td width="33%">
+<img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=500&q=80"/>
+</td>
+
+<td width="33%">
+<img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=500&q=80"/>
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-*Minimal • Elegant • Luxury • Responsive*
+*Elegant • Stylish • Contemporary • Premium*
 
 </div>
 
@@ -104,14 +102,14 @@ Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript
 
 | 🌿 Feature | Description |
 |------------|-------------|
-| 👓 Eyewear Collection | Premium optical frames & sunglasses |
-| 📱 Responsive Design | Optimized for every device |
-| 🎨 Luxury UI | Elegant & modern interface |
-| ⚡ Fast Performance | Lightweight frontend architecture |
-| 💚 Tailwind Components | Utility-first responsive styling |
-| 🟣 Bootstrap Layout | Flexible responsive grid |
-| ✨ Smooth Interactions | Beautiful user experience |
-| 🌍 Cross Browser | Consistent performance everywhere |
+| 👓 Eyewear Collection | Premium optical & sunglasses showcase |
+| 🛍 Product Gallery | Elegant shopping experience |
+| 📱 Responsive Design | Optimized for all devices |
+| 🎨 Modern UI/UX | Minimal luxury interface |
+| 💚 Tailwind CSS | Utility-first styling |
+| 🟣 Bootstrap | Responsive grid system |
+| ⚡ JavaScript | Interactive components |
+| 🌍 Cross Browser | Consistent performance |
 
 ---
 
@@ -119,7 +117,7 @@ Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode&perline=4"/>
 
 </div>
 
@@ -135,25 +133,25 @@ Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript
 | ☁️ Soft White | `#ECFDF5` |
 | ⚫ Charcoal | `#111827` |
 
-> Inspired by premium eyewear boutiques and luxury minimalist branding.
+> Inspired by luxury eyewear boutiques and timeless minimalist fashion.
 
 ---
 
 # 🌊 User Journey
 
 ```text
-Landing Page
-      │
-      ▼
-Explore Eyewear Collection
-      │
-      ▼
-Interactive Product Gallery
-      │
-      ▼
-Luxury Shopping Experience
-      │
-      ▼
+Discover Collection
+        │
+        ▼
+Explore Eyewear Gallery
+        │
+        ▼
+Interactive Product Showcase
+        │
+        ▼
+Premium Shopping Experience
+        │
+        ▼
 Responsive User Interface
 ```
 
@@ -164,11 +162,11 @@ Responsive User Interface
 ```text
 Nazario/
 │
+├── index.html
 ├── css/
 ├── js/
-├── images/
 ├── assets/
-├── index.html
+├── images/
 └── README.md
 ```
 
@@ -192,7 +190,7 @@ Open index.html in your browser
 
 ---
 
-# 🌟 Why This Project?
+# 🌟 Why Nazario?
 
 - 👓 Luxury Eyewear Experience
 - 🌿 Beautiful Emerald Theme
@@ -200,7 +198,7 @@ Open index.html in your browser
 - 💚 Tailwind + Bootstrap
 - ⚡ Optimized Performance
 - 🎨 Premium UI/UX
-- 🖥 Clean Frontend Architecture
+- 🛍 Elegant Product Presentation
 - ✨ Smooth Shopping Journey
 
 ---
@@ -211,7 +209,7 @@ Open index.html in your browser
 
 **Frontend Developer • UI/UX Designer • Full Stack Developer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ECFDF5,50:4ADE80,100:166534"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ECFDF5,50:34D399,100:166534"/>
 
 ### ⭐ Crafted with Vision, Elegance & Clean Code
 
