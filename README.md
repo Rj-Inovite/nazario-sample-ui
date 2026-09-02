@@ -1,16 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ECFDF5,30:BBF7D0,70:4ADE80,100:166534&text=NAZARIO&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Modern%20Responsive%20Frontend%20Website&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ECFDF5,35:34D399,70:047857,100:022C22&text=NAZARIO&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Luxury%20Eyewear%20%26%20Sunglasses%20Collection&descAlignY=58"/>
 
-# 🌿 Nazario
+# 👓 Nazario
 
-### *Clean Design • Modern UI • Beautiful Experience*
+### *See the world through timeless elegance.*
 
-A premium responsive website crafted with modern frontend technologies and elegant user experience.
+A premium eyewear & sunglasses shopping experience crafted with modern frontend technologies.
+
+<a href="YOUR_LIVE_LINK">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-Visit_Now-047857?style=for-the-badge"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=750&lines=Modern+Responsive+Website;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Elegant+UI%2FUX+Experience;Frontend+Development+Project"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Luxury+Eyewear+Website;Responsive+Frontend+Experience;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Modern+UI%2FUX+Design"/>
 
 <br/>
 
@@ -24,68 +28,53 @@ A premium responsive website crafted with modern frontend technologies and elega
 
 ---
 
-# 🌱 About Nazario
+# 🌿 About Nazario
 
-> ### 💚 *Modern • Responsive • Elegant*
+> ### ✨ Modern • Elegant • Visionary
 
-**Nazario** is a beautifully designed frontend website focused on delivering a seamless and engaging user experience through modern layouts, responsive design, and clean visual aesthetics.
+**Nazario** is a luxury eyewear and sunglasses website designed to deliver a premium digital shopping experience. From stylish optical frames to contemporary sunglasses, the platform combines minimalist design with elegant interactions and responsive performance.
 
-Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript**, the project emphasizes performance, accessibility, and pixel-perfect UI design.
+### 💎 Highlights
 
-### ✨ Highlights
-
-- 🌿 Modern Responsive Layout
-- 🎨 Elegant User Interface
-- 📱 Mobile-First Design
+- 👓 Premium Eyewear Collection
+- 🕶️ Luxury Sunglasses Gallery
+- 📱 Fully Responsive Design
 - ⚡ Fast & Lightweight Performance
+- 🎨 Modern UI/UX Experience
+- ✨ Smooth Interactive Animations
 - 💚 Tailwind + Bootstrap Components
-- ✨ Smooth Animations & Interactions
-- 🖥️ Cross-Browser Compatibility
 
 ---
 
-# 🖼 Website Preview
+# 🛍 Featured Collection
 
 <p align="center">
-<img width="100%" src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=80"/>
+
+![Eyewear Hero](https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1400&q=80)
+
 </p>
 
-<p align="center"><i>Modern responsive landing page with elegant green aesthetics</i></p>
+---
+
+# 🌟 Premium Gallery
+
+| Collection | Collection |
+|------------|------------|
+| ![Glass1](https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80) | ![Glass2](https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80) |
+| **Classic Optical** | **Luxury Sunglasses** |
+| ![Glass3](https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80) | ![Glass4](https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80) |
+| **Modern Frames** | **Premium Fashion** |
 
 ---
 
-# 🌼 UI Inspiration
+# ✨ Why Nazario?
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"/>
-</td>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?auto=format&fit=crop&w=800&q=80"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Minimal • Fresh • Professional • Responsive*
-
-</div>
-
----
-
-# ✨ Features
-
-| 🌿 Feature | Description |
-|------------|-------------|
-| 📱 Responsive Design | Optimized for all screen sizes |
-| 🎨 Modern UI | Clean & elegant interface |
-| ⚡ Fast Performance | Lightweight frontend architecture |
-| 🌱 Tailwind Components | Utility-first styling |
-| 💎 Bootstrap Layout | Responsive grid system |
-| ✨ Interactive Elements | Smooth user interactions |
-| 🌍 Cross Browser | Consistent experience everywhere |
+| 🌿 Experience | 💎 Design |
+|--------------|----------|
+| Responsive Layout | Luxury Aesthetic |
+| Smooth Navigation | Elegant Typography |
+| Interactive Components | Minimal UI |
+| Fast Performance | Premium Visual Identity |
 
 ---
 
@@ -93,22 +82,31 @@ Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode&perline=4"/>
 
 </div>
+
+### Technologies Used
+
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript (ES6)
+- 💚 Tailwind CSS
+- 🟣 Bootstrap 5
+- 🔧 Git & GitHub
+- 💻 VS Code
 
 ---
 
 # 🎨 Design System
 
-| Element | Color |
-|----------|-------|
-| 🌿 Primary | `#166534` |
-| 💚 Green | `#16A34A` |
-| 🌱 Mint | `#BBF7D0` |
-| ☁️ Soft White | `#F0FDF4` |
-
-> A refreshing green palette inspired by modern minimal design and natural aesthetics.
+| Color | Hex |
+|--------|-----|
+| 🌲 Emerald | `#047857` |
+| 💚 Green | `#10B981` |
+| 🌿 Mint | `#D1FAE5` |
+| ⚫ Charcoal | `#111827` |
+| 🤍 White | `#FFFFFF` |
 
 ---
 
@@ -118,29 +116,29 @@ Built using **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript
 Landing Page
       │
       ▼
-Explore Sections
+Browse Eyewear Collection
       │
       ▼
-Interactive Components
+Explore Product Gallery
       │
       ▼
-Responsive Experience
+Premium Shopping Experience
       │
       ▼
-Beautiful User Interface
+Responsive Checkout Journey
 ```
 
 ---
 
-# 📂 Project Structure
+# 📁 Project Structure
 
 ```text
 Nazario/
 │
 ├── css/
 ├── js/
-├── images/
 ├── assets/
+├── images/
 ├── index.html
 └── README.md
 ```
@@ -161,19 +159,18 @@ git clone https://github.com/Rj-Inovite/Nazario.git
 Open index.html in your browser
 ```
 
-No installation required — it's a pure frontend project.
+> No installation required — pure frontend project.
 
 ---
 
-# 🌟 Why This Project?
+# 🌟 Future Enhancements
 
-- 🌿 Beautiful Green Theme
-- 📱 Fully Responsive
-- 💚 Tailwind + Bootstrap
-- ⚡ Optimized Performance
-- 🎨 Elegant UI/UX
-- 🖥️ Clean Frontend Architecture
-- ✨ Smooth User Experience
+- ❤️ Wishlist Feature
+- 🛒 Shopping Cart
+- 💳 Payment Integration
+- 🌙 Dark Mode
+- 🤖 AI Face Glasses Try-On
+- 📦 Product Filtering
 
 ---
 
@@ -183,8 +180,8 @@ No installation required — it's a pure frontend project.
 
 **Frontend Developer • UI/UX Designer • Full Stack Developer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ECFDF5,50:4ADE80,100:166534"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ECFDF5,50:10B981,100:022C22"/>
 
-### ⭐ Crafted with Creativity & Clean Code
+### ⭐ Crafted with Vision & Elegance
 
 </div>
